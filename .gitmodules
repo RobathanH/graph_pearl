@@ -1,6 +1,6 @@
-[submodule "pearl_repo"]
-	path = pearl_repo
-	url = git@github.com:katerakelly/oyster.git
 [submodule "bouncegrad_repo"]
 	path = bouncegrad_repo
 	url = git@github.com:FerranAlet/modular-metalearning.git
+[submodule "pearl_updated"]
+	path = pearl_updated
+	url = git@github.com:RobathanH/pearl_updated.git
