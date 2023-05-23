@@ -1,3 +1,8 @@
+# Important Note:
+This repo is deprecated, all project development occurred in https://github.com/RobathanH/modular_pearl, which was forked from the original PEARL repo.
+
+
+
 # graph_pearl
 Augmenting the PEARL Meta-Reinforcement-Learning algorithm with discrete graph-structured task encodings based on the BOUNCEGRAD meta-learning algorithm.
 
